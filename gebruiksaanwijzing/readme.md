@@ -12,16 +12,16 @@ Al de parameters bekijken:
 debug   
 
 Parameters aanpassen:
-  set cycle [µs]  
-  set power [0..255]  
-  set diff [0..1]  
-  set kp [0..]  
-  set ki [0..]  
-  set kd [0..]  
+set cycle [µs]  
+set power [0..255]  
+set diff [0..1]  
+set kp [0..]  
+set ki [0..]  
+set kd [0..]  
 
 Kalibratie sensoren:
-  calibrate black  
-  calibrate white  
+calibrate black  
+calibrate white  
 
 ### kalibratie
 Om de sensoren te kalibreren, zet je de sensor op het zwarte vlak in het parcour & type "calibrate black". Omgekeerd zet je dan de sensor op een wit vlak & daar type je dan weer "calibrate white". Als we nu naar de waarden gaan gaan kijken in "debug" zal je zien dat de witte waarde dicht bij de 0 liggen & de zwarte waarde dicht bij de 1000 liggen. In de code wordt deze dan omgezet met zwart als 0 en wit als 1000.  
