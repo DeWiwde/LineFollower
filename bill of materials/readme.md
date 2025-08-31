@@ -11,7 +11,7 @@
 |         6| Batterijhouder |Houder 2 18650 batterijen |      Nieuw|         €0,56|     3|    €1,69|
 |         7|1865O + oplader |3,7V batterij, Li-ion batterij|  Nieuw|         €9,59|     1|    €9,59|
 |         8|Breadboard|400 inplug gaaatjes|Nieuw|€1,40|1|€1,40|
-|         9|                |                          |           |              |      |         |
+|         9|   HC-05 BT             |    Wireless Communication                      |     Nieuw      |        €1,20      |  1    |    €1,20     |
 |        10|                |                          |           |              |      |         |
 |        11|                |                          |           |              |      |         |
 |        12|                |                          |           |              |      |         |
