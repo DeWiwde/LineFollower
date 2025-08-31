@@ -17,4 +17,4 @@
 |        12|                |                          |           |              |      |         |
 |        13|                |                          |           |              |      |         |
 
-*Dit is nog een voorlopige lijst (laatst geüpdate: 18/10/2024).*
+*Dit is nog een voorlopige lijst (laatst geüpdate: 31/08/2025).*
