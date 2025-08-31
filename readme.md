@@ -1,23 +1,22 @@
 # LineFollower
 
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
+![4bc44b3e-59b5-4dca-a37b-efbb2bc2e9a9](https://github.com/user-attachments/assets/fccd11e1-9c69-47f6-bad2-0526c54b4d58)
 
-![A description of my image](images/empty.png)
 
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino Leonardo
 
-motors: 
+motors: Micro gearbox DC	6V, 50:1 (300min-1)
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: QTR-8A	Fotoelektrische sensor
 
-batteries:
+batteries: 2x 18650
 
-wireless communication:
+wireless communication: HC-05 (Bluetooth)
 
 distance sensor - motors:
 
