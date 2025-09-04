@@ -18,9 +18,9 @@ batteries: 2x 18650
 
 wireless communication: HC-05 (Bluetooth)
 
-distance sensor - motors:
+distance sensor - motors: 10cm
 
-weight:
+weight: /
 
-speed: 
+speed: 0.55m/s
 
